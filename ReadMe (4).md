@@ -1,4 +1,4 @@
-![logo]( banner.png)
+![banner](https://github.com/user-attachments/assets/333eb80c-0296-4aaa-8b81-c8bcf481fd1f)
 <h1 align="center">Hi 👋, I'm Hitesh Rathi</h1>
 <h3 align="center">A passionate frontend developer & cyber security from India</h3>
 
