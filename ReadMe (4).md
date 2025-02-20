@@ -11,7 +11,8 @@
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"<a href="https://www.linkedin.com/in/hitesh-rathi-38b829293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1500"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<p align="left" <a href="https://www.linkedin.com/in/hitesh-rathi-38b829293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1500">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://x.com/HiteshR00474432?"><img align="center" src=".svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
